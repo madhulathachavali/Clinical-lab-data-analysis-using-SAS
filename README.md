@@ -22,6 +22,7 @@ There are 10 male recipients.
 There are 10 female donors.
 
 B. Lab summary reports
+
  The following tables were created for both the control and test groups.
 1. Serum Creatinine Analysis on Different Days
 2. Hemoglobin (HB) Analysis on Different Days
