@@ -1,7 +1,6 @@
 /*READ SAS DATAS*/
 
-libname Clinical "\\VBOXSVR\vm_shared\Datasets\clinical project with ds";
-
+libname Clinical "/home/u61152431/Labdata";
 
 *******************************************************;
 /
