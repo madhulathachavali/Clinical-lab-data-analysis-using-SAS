@@ -125,4 +125,18 @@ C. Gender Analysis:
 | day180| 1            | 306.00          | .              | 0.00             | 1               | 306.00             | .                 | 0.00                |
 | day360| 0            | .               | .              |
 
-
+#### Summary of lab data 
+1. Serum Creatinine Analysis
+Day 3: Drug group had a higher mean serum creatinine (1.87) than the control group (1.83).
+Day 7: Both groups show a reduction in mean serum creatinine, but the control group shows a more significant reduction.
+2. Hemoglobin (HB) Analysis
+Day 14: Drug group's HB levels increased significantly from 9.23 to 10.14, while the control group's HB rose from 8.83 to 10.33.
+Day 180: Control group showed a greater increase (14.10) compared to the drug group (12.55).
+3. Platelet Count Analysis
+Day 14: Drug group had a significantly higher mean platelet count (318.33) compared to the control group.
+Day 360: The drug group maintained higher platelet counts (226.00) than the control group.
+4. CD3 and CD4 Counts
+CD3 Day 30: Control group showed higher mean CD3 levels (648.75) compared to the drug group (318.25).
+CD4 Day 30: Control group also showed higher CD4 levels (246.50) compared to the drug group (107.25).
+5. Viral Infections
+Both groups reported two cases of viral infection.
