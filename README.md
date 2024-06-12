@@ -2,14 +2,14 @@
 
 ### Demographics 
 
-## Table 1: Age 
+### Table 1: Age 
 
 | Category  | Drug Group Mean | Drug Group Std Dev | Control Group Mean | Control Group Std Dev |
 |-----------|------------------|--------------------|--------------------|----------------------|
 | Recipient | 41.94            | 10.62              | 36.70              | 11.42                |
 | Donor     | 49.02            | 11.41              | 47.67              | 11.43                |
 
-## Table 2: Relationship of Recipient with Donor
+### Table 2: Relationship of Recipient with Donor
 
 | Category  | Drug Group Records | Control Group Records |
 |-----------|--------------------|-----------------------|
@@ -18,7 +18,7 @@
 | Unrelated | 2                  | 4                     |
 | Total     | 10                 | 10                    |
 
-## Table 3: Gender Analysis
+### Table 3: Gender Analysis
 
 | Category  | Drug Group N | Control Group N |
 |-----------|--------------|-----------------|
@@ -125,7 +125,7 @@ C. Gender Analysis:
 | day180| 1            | 306.00          | .              | 0.00             | 1               | 306.00             | .                 | 0.00                |
 | day360| 0            | .               | .              |
 
-#### Summary of lab data 
+### Summary of lab data 
 1. Serum Creatinine Analysis
 Day 3: Drug group had a higher mean serum creatinine (1.87) than the control group (1.83).
 Day 7: Both groups show a reduction in mean serum creatinine, but the control group shows a more significant reduction.
