@@ -1,42 +1,51 @@
-# Clinical-Lab-Data-Analysis-using-SAS
+# Clinical-Lab-Data-Analysis 
 
-The analysis covers the following sections for both the control and test groups as per statistical analysis plan:
+### Demographics Summary Reports
 
-A. Demographics summary reports
+## Table 1: Age 
 
-   Table 1: Age Analysis
+| Category  | Drug Group Mean | Drug Group Std Dev | Control Group Mean | Control Group Std Dev |
+|-----------|------------------|--------------------|--------------------|----------------------|
+| Recipient | 41.94            | 10.62              | 36.70              | 11.42                |
+| Donor     | 49.02            | 11.41              | 47.67              | 11.43                |
 
-The mean age of recipients is 41.94 years, with a standard deviation of 10.62.
-The mean age of donors is 49.02 years, with a standard deviation of 11.41.
+## Table 2: Relationship of Recipient with Donor
 
-  Table 2: Relationship of Recipient with Donor
+| Category  | Drug Group Records | Control Group Records |
+|-----------|--------------------|-----------------------|
+| Related   | 3                  | 6                     |
+| Spousal   | 5                  | -                     |
+| Unrelated | 2                  | 4                     |
+| Total     | 10                 | 10                    |
 
-Among the records, 3 recipients are related to their donors.
-5 recipients have spousal donors.
-2 recipients have unrelated donors.
-In total, there are 10 records in this category.
+## Table 3: Gender Analysis
 
-  Table 3: Gender Analysis
+| Category  | Drug Group N | Control Group N |
+|-----------|--------------|-----------------|
+| Recipient | 10           | 1 (female), 8 (male)  |
+| Donor     | 10 (female)  | 6 (female), 3 (male)  |
 
-There are 10 male recipients.
-There are 10 female donors.
+### Insights: 
 
-B. Lab summary reports
+A. Age:
 
- The following tables were created for both the control and test groups.
-1. Serum Creatinine Analysis on Different Days
-2. Hemoglobin (HB) Analysis on Different Days
-3. Platelet Analysis on Different Days
-4. Urine Test Analysis
-5. CD3 Analysis on Different Days
-6. CD4 Analysis on Different Days
-7. CD8 Analysis on Different Days
-8. Total Lymphocyte Count (TLC) Analysis on Different Days
-9. Mycophenolate Mofetil (MMF) Dose Analysis on Different Days
-10. WYS Dose Analysis on Different Days
-11. ATG Dose Test Analysis on Different Days
-12. Virus Effects Analysis
-13. Adverse Effects of ATG Drug Analysis
-14. Organs Involved Analysis
-15. Infection Analysis
+1. Drug Group: Recipients have an average age of 41.94 years (Std Dev: 10.62), while donors average 49.02 years (Std Dev: 11.41).
+2. Control Group: Recipients are younger, averaging 36.70 years (Std Dev: 11.42), with donors at 47.67 years (Std Dev: 11.43).
+
+B. Relationship with Donor:
+
+1. Drug Group: Most donors are spousal (5), followed by related (3), and unrelated (2).
+2. Control Group: More recipients are related to donors (6) compared to unrelated (4).
+
+C. Gender Analysis:
+
+1. Drug Group: All recipients are male (10) and all donors are female (10).
+2. Control Group: Recipients are mostly male (8), with one female, while donors are predominantly female (6), with three males.
+
+
+
+
+
+
+
 
